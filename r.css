@@ -1,0 +1,70 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+.r1{
+ background: hsl(108, 61%, 52%);
+  padding: 14px 16px;
+  color: white;
+  border: none;
+}
+h1{
+    font-family: cursive;
+    text-decoration: underline;
+    font-weight: 400px;
+    text-decoration-color: blueviolet;
+     color: rgb(40, 6, 69);
+     text-shadow: 10px 5px 10px;
+    text-shadow: color(rgb(86, 43, 16) red green blue);
+}
+i{
+    text-indent: 50px;
+}
+h2{
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: rgb(42, 27, 4) ;
+    text-decoration-style: double;
+    text-shadow: 10px 5px 10px;
+    text-shadow: color(rgb(60, 70, 15) red green blue)
+}
+.o1{
+    background-color: rgb(72, 49, 19);
+    color: bisque;
+    margin: 5px;
+    padding: 5px;
+}
+.o2{
+    background-color: rgb(91, 73, 49);
+    color: bisque;
+    margin: 5px;
+    padding: 5px;
+}
+.o3{ 
+    background-color: rgb(150, 118, 77);
+    color: bisque;
+    margin: 5px;
+    padding: 5px;
+}
+.o4{
+    background-color: rgb(193, 141, 72);
+    color: bisque;
+    margin: 5px;
+    padding: 5px;
+}
+.o5{
+    background-color: rgb(95, 63, 21);
+    color: bisque;
+    margin: 5px;
+    padding: 5px;
+}
+.o6{
+    background-color: rgb(133, 80, 9);
+    color: bisque;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
